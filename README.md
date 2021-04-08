@@ -1,12 +1,3 @@
-### Hi there 👋
-
-<!--
-**devstah/devstah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-
 
 
 - 💬 Ask me about language learning, edTech, and bootcamp experiences.. 
