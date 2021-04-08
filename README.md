@@ -9,7 +9,7 @@
 
 GitHub Projects: 
 
-1.) Grizzly Winter Gear - eCommerce Shopping Website: grizzly-winter-gear.herokuapp.com/home
+1.) Grizzly Winter Gear - eCommerce Shopping Website: https://grizzly-winter-gear.herokuapp.com/signup
  
 2.) Tell me what's for dinner! - Randomizer for dinner options: https://find-dinner-updated.herokuapp.com/
 
