@@ -13,7 +13,7 @@ GitHub Projects:
  
 2.) Tell me what's for dinner! - Randomizer for dinner options: https://find-dinner-updated.herokuapp.com/
 
-3.) Manhattan Trail - Educational Adventure Game designed to raise awareness to food waste: luderosa.herokuapp.com/home
+3.) Manhattan Trail - Educational Adventure Game designed to raise awareness to food waste: https://luderosa.herokuapp.com/home
 
 Linkedin: https://www.linkedin.com/in/devyagarwal/
 
