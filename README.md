@@ -3,7 +3,7 @@
 
 👋🏼 Hello there! Welcome to my GitHub page. I am a front-end software developer who is passionate about using technolgy to create innovation in niche and unique spaces. 
 
-- 💬 Ask me about language learning, edTech, and bootcamp experiences 
+- 💬 Ask me about language learning and bootcamp experiences 
 - 📫 How to reach me: Linkedin 
 - 😄 Pronouns: she/her/hers
 
