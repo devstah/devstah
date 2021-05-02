@@ -1,7 +1,7 @@
 **Front - End Software Developer **
 
 
-👋🏼 Hello there! Welcome to my GitHub page. I am a front-end software developer who is passionate about using technolgy to create innovation in niche and unique spaces. I say this because hobbies that I had always wanted to pursue have been made so much more accessible to me thanks to the technology that has powered its ease of use. I want to continue using my skills to do the same for others.  
+👋🏼 Hello there! Welcome to my GitHub page. I am a front-end software developer who is passionate about using technolgy to create innovation in niche and unique spaces. 
 
 - 💬 Ask me about language learning, edTech, and bootcamp experiences 
 - 📫 How to reach me: Linkedin 
